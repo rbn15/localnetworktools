@@ -45,4 +45,4 @@ def main():
 if __name__=="__main__":
 	main()
 
-#echo 1 > /proc/sys/net/ipv4/ip_forward
+# To enable IP forwarding: echo 1 > /proc/sys/net/ipv4/ip_forward
